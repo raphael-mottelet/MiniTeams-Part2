@@ -1,0 +1,1 @@
+Miniteams part 2, is a C project mean to do a lighter version of microsoft teams, interacting with both client and server side.
